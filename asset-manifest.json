@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FrontEndProj/static/css/main.db9511b5.css",
+    "main.js": "/FrontEndProj/static/js/main.efea3e6a.js",
+    "static/js/453.62116667.chunk.js": "/FrontEndProj/static/js/453.62116667.chunk.js",
+    "static/media/client.png": "/FrontEndProj/static/media/client.90034708b06762960bd3.png",
+    "static/media/pizza-2.PNG": "/FrontEndProj/static/media/pizza-2.d14f0e448d43660cc229.PNG",
+    "static/media/black-burger2.PNG": "/FrontEndProj/static/media/black-burger2.39984f3be28d9c8ba226.PNG",
+    "static/media/pizza-3.PNG": "/FrontEndProj/static/media/pizza-3.bd9b44dce5d328938332.PNG",
+    "static/media/fries.PNG": "/FrontEndProj/static/media/fries.18268a97cf1371c76ef5.PNG",
+    "static/media/pizza-1.PNG": "/FrontEndProj/static/media/pizza-1.ad47047d1afd35c131b5.PNG",
+    "static/media/delivery-guy.png": "/FrontEndProj/static/media/delivery-guy.4bbedf30dd538952ec1b.png",
+    "static/media/burger-1.PNG": "/FrontEndProj/static/media/burger-1.100bea51dcc4882d4a55.PNG",
+    "static/media/mobile-app.jpg": "/FrontEndProj/static/media/mobile-app.b69530a5464fedbcfe04.jpg",
+    "static/media/cheeseburger.PNG": "/FrontEndProj/static/media/cheeseburger.7045e02534092cc53fa7.PNG",
+    "static/media/black-burger.PNG": "/FrontEndProj/static/media/black-burger.d585b952b9340ee3d2fc.PNG",
+    "static/media/royal-cheeseburger.PNG": "/FrontEndProj/static/media/royal-cheeseburger.8474277ecf998dbc83ce.PNG",
+    "static/media/chicken-burger.PNG": "/FrontEndProj/static/media/chicken-burger.ff896e5fc980532dd6d2.PNG",
+    "static/media/beef-burger.PNG": "/FrontEndProj/static/media/beef-burger.e643766be5699eefdf90.PNG",
+    "index.html": "/FrontEndProj/index.html",
+    "main.db9511b5.css.map": "/FrontEndProj/static/css/main.db9511b5.css.map",
+    "main.efea3e6a.js.map": "/FrontEndProj/static/js/main.efea3e6a.js.map",
+    "453.62116667.chunk.js.map": "/FrontEndProj/static/js/453.62116667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9511b5.css",
+    "static/js/main.efea3e6a.js"
+  ]
+}
