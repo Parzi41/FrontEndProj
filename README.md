@@ -18,7 +18,7 @@
 - Власні зображення та стилі
 
 ## ⚙️ Встановлення та запуск(можна встановити або перейти за посиланням)
-# https://parzi41.github.io/FrontEndProj/
+https://parzi41.github.io/FrontEndProj/
 
 ```bash
 # Клонування репозиторію
@@ -32,4 +32,4 @@ npm install
 
 # Запуск проекту
 npm start
- 
+```
